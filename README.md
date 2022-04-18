@@ -2,6 +2,7 @@
 
 Architecture of crossbar array
 
+![architecture](https://user-images.githubusercontent.com/96823533/163798668-0ad97638-d1e4-406f-b249-205df96cb154.jpg)
 
 
 
