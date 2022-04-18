@@ -6,6 +6,3 @@ Simulation Result
 
 
 
-RTl schematic 
-
-![rtl schematic1](https://user-images.githubusercontent.com/96823533/163789783-cbd31dd8-2b76-4a98-b683-139625dd105f.JPG)
