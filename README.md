@@ -11,13 +11,6 @@ RTL schematic
 
 
 
-
-
-![rtl3](https://user-images.githubusercontent.com/96823533/163799511-abd59ba3-a40a-47d2-8a20-a7230969c1de.JPG)
-
-
-
-
 ![rtl](https://user-images.githubusercontent.com/96823533/163799168-5ede284b-e8f8-43d6-be39-3c266e10c8f6.JPG)
 
 
