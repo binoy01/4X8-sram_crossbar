@@ -1,6 +1,6 @@
 # 4X8-sram_crossbar
 
-Architecture of sram crossbar array for multiplying 4 bit vecor to 4X8 matrix
+Architecture of sram crossbar array for multiplying 4 bit vector to 4X8 matrix
 
 ![architecture](https://user-images.githubusercontent.com/96823533/163798668-0ad97638-d1e4-406f-b249-205df96cb154.jpg)
 
