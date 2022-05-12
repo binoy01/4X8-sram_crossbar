@@ -1,7 +1,7 @@
 
 
 
-Reconfigurabl  Neural Network Architecture
+# Reconfigurable  Neural Network Architecture
 
 
 ![Reconfigurable architecture](https://user-images.githubusercontent.com/96823533/168055846-98084c1f-f89f-4aa7-a7e2-4c4d55991d21.jpg)
