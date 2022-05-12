@@ -3,8 +3,7 @@
 
 # Reconfigurable  Neural Network Architecture
 
-
-![Reconfigurable architecture](https://user-images.githubusercontent.com/96823533/168055846-98084c1f-f89f-4aa7-a7e2-4c4d55991d21.jpg)
+![reconfigurable](https://user-images.githubusercontent.com/96823533/168056880-a6fc8697-2f4f-4a4b-9c0d-e989b6cf23b0.jpg)
 
 
 
