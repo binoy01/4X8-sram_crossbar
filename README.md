@@ -3,7 +3,13 @@
 
 # Reconfigurable  Neural Network Architecture
 
-![reconfigurable](https://user-images.githubusercontent.com/96823533/168056880-a6fc8697-2f4f-4a4b-9c0d-e989b6cf23b0.jpg)
+![corrected architecture](https://user-images.githubusercontent.com/96823533/169274669-a1bad984-d748-475b-b8b5-4bedf8e59901.jpg)
+ 
+ 
+ example timing diagram
+ 
+ 
+![timing diagram](https://user-images.githubusercontent.com/96823533/169274770-3c5f808e-0321-4abb-8671-59016920249a.png)
 
 
 
