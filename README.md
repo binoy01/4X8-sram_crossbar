@@ -26,7 +26,8 @@ Architecture of sram crossbar array for multiplying 4 bit vector to 4X8 matrix
 
 
 
-Architecture of ANN using two 4X4 crossbars
+# Architecture of ANN using two 4X4 crossbars
+
 
 ![ANN](https://user-images.githubusercontent.com/96823533/164064699-b5a889bd-50b2-4bba-a6be-9a23cb558e2c.jpg)
 
