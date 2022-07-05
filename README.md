@@ -4,10 +4,6 @@
 
  
  
- example timing diagram
- 
- 
-![timing diagram](https://user-images.githubusercontent.com/96823533/169274770-3c5f808e-0321-4abb-8671-59016920249a.png)
 
 
 
