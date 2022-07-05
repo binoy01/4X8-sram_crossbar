@@ -1,9 +1,6 @@
 
 
 
-# Reconfigurable  Neural Network Architecture
-
-![Reconfig_arch](https://user-images.githubusercontent.com/96823533/169476386-5f6bba09-db45-4353-8b0f-f4a683c7322b.jpg)
 
  
  
